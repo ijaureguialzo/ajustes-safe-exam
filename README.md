@@ -78,3 +78,20 @@ Al iniciar Safe Exam Browser la que falte dará error.
 | Ajuste | Valor           |
 |--------|-----------------|
 | URL	   | `gitkraken://*` |
+
+## PhpStorm
+
+### Aplicaciones permitidas
+
+| Ajuste         | Valor                                  |
+|----------------|----------------------------------------|
+| Título	        | PhpStorm                               |
+| Ejecutable	    | `phpstorm64.exe`                       |
+| Ruta	          | `%LOCALAPPDATA%\Programs\PhpStorm\bin` |
+| Mostrar icono	 | Sí                                     |
+| Forzar cierre  | No                                     |
+
+Para permitir clonar repositorios desde PhpStorm hay que añadir los ajustes de Git Credential Manager.
+
+Si queremos usar un enlace directo a un repositorio y que se abra el PhpStorm automáticamente, hay añadir también los de
+JetBrains Toolbox.
