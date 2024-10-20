@@ -1,6 +1,6 @@
 # Ajustes para Safe Exam
 
-Recopilación de ajustes para configurar Safe Exam Browser.
+Recopilación de ajustes para configurar [Safe Exam](https://github.com/ijaureguialzo/safe-exam).
 
 ## IntelliJ IDEA Community Edition
 
